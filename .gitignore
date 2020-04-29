@@ -25,6 +25,7 @@
 hs_err_pid*
 
 .idea/ZeppelinRemoteNotebooks/
-Common/src/
-src/main/
+# Common/src/
+# src/main/
 target/generated-test-sources/
+.idea/checkstyleidea.tmp/
